@@ -8,6 +8,9 @@ var streamUris = [];
 //fill with defaults
     streamUris.push(['Absolute Radio', 'http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=vrbb']);
     streamUris.push(['Absolute Rock Radio', 'http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=vcbb']);
+    streamUris.push(['Jazz FM', 'http://tx.sharp-stream.com/icecast.php?i=jazzfmmobile.mp3']);
+    streamUris.push(['Radio Tangra', 'http://www.radiotangra.com/']);
+    streamUris.push(['181.fm Christmas', 'http://uplink.duplexfx.com:8082/']);
     streamUris.push(['NPR 24', 'http://www.npr.org/streams/mp3/nprlive24.pls']);
     streamUris.push(['3FM Dutch', 'http://icecast.omroep.nl/3fm-bb-mp3']);
     streamUris.push(['BBC WorldService', 'http://vprbbc.streamguys.net:8000/vprbbc24.mp3']);
